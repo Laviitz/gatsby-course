@@ -1,0 +1,9 @@
+**/*.scss
+src/styles/*
+src/assets/*
+src/commons/*
+src/resources/*
+src/logo.svg
+**/*.spec.js
+**/*.js.snap
+serviceWorker.js
