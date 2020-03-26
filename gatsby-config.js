@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'My blog',
-    description: 'Gatsby trainig',
+    title: 'Luan Vieira',
+    description: 'Gatsby trainig, Lorem laborum enim eu pariatur. Cillum dolor ex laboris mollit.',
     author: '@luan_',
     position: 'Frontend Developer',
   },
