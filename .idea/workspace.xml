@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1a0ad286-3b49-4160-b923-09bbfb30bf9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +26,7 @@
     <property name="PluginDummyText.Genre" value="latin" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\zup\my-blog\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -49,6 +48,8 @@
       <workItem from="1585222494809" duration="15000" />
       <workItem from="1585338770575" duration="532000" />
       <workItem from="1585339313882" duration="2470000" />
+      <workItem from="1585574033085" duration="14000" />
+      <workItem from="1585688931695" duration="48000" />
     </task>
     <servers />
   </component>
@@ -56,10 +57,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585222508358">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1585574045860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585222508358" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585574045860" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1585341256382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

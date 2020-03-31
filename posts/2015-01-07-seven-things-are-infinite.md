@@ -1,6 +1,6 @@
 ---
-date: 2015-01-04 05:54:23
-title: Two things are infinite
+date: 2017-01-07 05:54:23
+title: Seven things are infinite
 description: And I'm not sure about the universe.
 category: Misc
 background: red
