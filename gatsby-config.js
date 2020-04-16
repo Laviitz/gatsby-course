@@ -7,6 +7,7 @@ module.exports = {
     description: 'Gatsby trainig, Lorem laborum enim eu pariatur. Cillum dolor ex laboris mollit.',
     author: '@luan_',
     position: 'Frontend Developer',
+    siteUrl: `https://luanvieira.com.br`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',

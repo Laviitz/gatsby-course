@@ -14,7 +14,12 @@ const BlogPost = ({ data, pageContext }) => {
   const previous = pageContext.previousPost
   return (
     <Layout>
-      <SEO title={post.frontmatter.title} />
+      {/* definir nas outras pastas */}
+      <SEO
+        title={post.frontmatter.title}
+        description={post.frontmatter.description}
+        image={post.frontmatter.image}
+      />
       <S.PostHeader>
         <S.PostDate>
           {post.frontmatter.date} • {post.timeToRead} min de leitura
@@ -41,6 +46,7 @@ export const query = graphql`
         title
         description
         date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
+        image
       }
       html
       timeToRead

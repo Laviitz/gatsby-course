@@ -4,6 +4,7 @@ title: Four things are infinite
 description: And I'm not sure about the universe.
 category: Misc
 background: red
+image: "/assets/img/lake.jpg"
 ---
 
 # Lorem ipsum
